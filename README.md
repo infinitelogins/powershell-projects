@@ -1,2 +1,2 @@
 # powershell-projects
-Misc work I've done piecing together PowerShell scripts.
+Miscellaneous projects I have worked on to try and automate my sysadmin job.
