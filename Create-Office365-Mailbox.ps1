@@ -6,7 +6,7 @@ $env:firstName = "Testing"
 $env:lastName = "User"
 $env:o365UserEmail = "testinguser@dundermifflin.com"
 $env:groupMember = 'False'
-$env:o365LicenseType = 'Business Basic'
+$env:o365LicenseType = 'Business Basic' # Insert either 'Business Basic', 'Business Standard', or 'Business E3'
 
 # Input Variables Related to IT Glue
 $env:APIKey =  "<IT Glue API Key Goes Here>"
