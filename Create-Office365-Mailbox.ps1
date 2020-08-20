@@ -1,5 +1,5 @@
 
-# ENV VARIABLES
+# Input Variables Related to Office 365
 $env:o365AdminUser = 'admin@example.com'
 $env:o365AdminPass = "Password123"
 $env:firstName = "Testing"
@@ -8,6 +8,7 @@ $env:o365UserEmail = "testinguser@dundermifflin.com"
 $env:groupMember = 'False'
 $env:o365LicenseType = 'Business Basic'
 
+# Input Variables Related to IT Glue
 $env:APIKey =  "<IT Glue API Key Goes Here>"
 $env:userTitle = "Manager of Management"
 $env:userStartDate = "Aug 19th, 2020"
